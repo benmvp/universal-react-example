@@ -4,6 +4,7 @@
   "description": "An example server- &amp; client-side React application based on the https://24ways.org/2015/universal-react/ tutorial.",
   "main": "index.js",
   "scripts": {
+    "start": "babel-node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
